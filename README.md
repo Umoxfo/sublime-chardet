@@ -1,9 +1,9 @@
 # sublime-chardet
 
-Sublime Text dependency of *[sublime-chardet][]*, Python 2/3 compatible character encoding detector.
+Sublime Text dependency of sublime-chardet, Python 2/3 compatible character encoding detector.
 
 
-## How to use *requests* as a dependency
+## How to use sublime-chardet as a dependency
 
 In order to tell Package Control
 that you are using the *requests* module
@@ -16,7 +16,7 @@ with the following contents:
 {
    "*": {
       "*": [
-         "sublime-chardet"
+         "chardet"
       ]
    }
 }

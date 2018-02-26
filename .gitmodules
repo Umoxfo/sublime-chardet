@@ -1,0 +1,3 @@
+[submodule "all/chardet"]
+	path = all/chardet
+	url = https://github.com/chardet/chardet.git
